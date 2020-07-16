@@ -5,4 +5,5 @@ This repository contains julia files and jupyter notebooks to present face recog
 Authors: 
 
 Óscar A. Alvarado-Morán
+
 Oscar A. Esquivel-Flores
