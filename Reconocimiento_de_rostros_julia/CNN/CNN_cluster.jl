@@ -1,3 +1,5 @@
+#We would like to thanks the financial support of PAPIIT-IA104720
+
 using Pkg; Pkg.activate("/homen1/oscar_aam/.julia/environments/CNN")
 
 using Images, ImageFeatures # We have to Pkg.add("Netpbm") because our images are in pgm format
